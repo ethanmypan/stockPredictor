@@ -38,3 +38,5 @@ To run this application locally, follow the steps below.
    ```bash
    git clone <your-repository-url>
    cd <repository-folder>
+   pip install -r requirements.txt
+   streamlit run app.py
